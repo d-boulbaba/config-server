@@ -5,5 +5,5 @@ eureka:
     service-url:
       defaultZone: http://102.219.178.237:8080/service-registry/eureka/
   instance:
-    hostname: localhost
+    hostname: 102.219.178.237
    
